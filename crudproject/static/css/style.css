@@ -1,0 +1,9 @@
+.container {
+    width: 500px;
+}
+
+.add_button {
+    display: inline-block;
+    margin-left: 91%;
+    margin-top: -6%;
+}
